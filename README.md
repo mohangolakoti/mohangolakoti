@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohangolakoti&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohangolakoti&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GSSoC Badges
+<img src="https://github.com/user-attachments/assets/ff7522ab-cd40-4eca-8a17-82c91d398c03" width="130px" />
+<img src="https://github.com/user-attachments/assets/6d795097-7b49-4de5-9eb3-6eb88aa52277" width="130px" />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohangolakoti&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
