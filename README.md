@@ -16,8 +16,8 @@
 </span>
 
 ## 🏆 GSSoC Badges
-<img src="https://github.com/user-attachments/assets/ff7522ab-cd40-4eca-8a17-82c91d398c03" width="130px" />
-<img src="https://github.com/user-attachments/assets/6d795097-7b49-4de5-9eb3-6eb88aa52277" width="130px" />
+<img src="https://github.com/user-attachments/assets/ff7522ab-cd40-4eca-8a17-82c91d398c03" width="120px" />
+<img src="https://github.com/user-attachments/assets/6d795097-7b49-4de5-9eb3-6eb88aa52277" width="120px" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohangolakoti&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
