@@ -1,4 +1,6 @@
-# ✨ Hello I'm Mohan
+<img src="https://github.com/user-attachments/assets/4ad8e045-a409-4316-80ce-37367ea7484c" height="190px" width="100%" />
+
+<h1 align="center">✨ Hello, I'm Mohan</h1>
 🔭 I’m currently working on mastering the MERN Stack, aiming to create comprehensive and efficient full-stack applications.<br>👯 I’m looking to collaborate on innovative web development projects that push the boundaries of what's possible on the web.<br>🌱 I’m currently learning advanced JavaScript frameworks to enhance my web development expertise.<br>💬 Ask me about web development and designing, including front-end frameworks, back-end development, and creating responsive, user-friendly interfaces.<br>⚡ Fun fact: When I'm not coding, I love exploring the latest tech gadgets and trends.
 
 
